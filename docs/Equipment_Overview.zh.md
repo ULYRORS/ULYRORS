@@ -1,4 +1,4 @@
-# Equipment Overview
+# 设备简介
 
 * `电脑`: 主要用于上传文件
  ![Computer](images/image1.jpg)
