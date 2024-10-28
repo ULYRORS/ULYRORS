@@ -2,140 +2,154 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://localhost:8000/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/"/>
     </url>
     <url>
         <loc>https://localhost:8000/Conclusion/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Conclusion/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Conclusion/"/>
     </url>
     <url>
         <loc>https://localhost:8000/Copier/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Copier/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Copier/"/>
     </url>
     <url>
         <loc>https://localhost:8000/Equipment_Overview/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Equipment_Overview/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Equipment_Overview/"/>
     </url>
     <url>
         <loc>https://localhost:8000/Introduction/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Introduction/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Introduction/"/>
     </url>
     <url>
         <loc>https://localhost:8000/Locations/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Locations/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Locations/"/>
     </url>
     <url>
         <loc>https://localhost:8000/Print/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Print/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Print/"/>
     </url>
     <url>
         <loc>https://localhost:8000/Problems/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Problems/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Problems/"/>
     </url>
     <url>
         <loc>https://localhost:8000/Safety/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Safety/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Safety/"/>
     </url>
     <url>
+        <loc>https://localhost:8000/System_Overview/</loc>
+        <lastmod>2024-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/System_Overview/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/System_Overview/"/>
+    </url>
+    <url>
         <loc>https://localhost:8000/blog/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/blog/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/blog/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/Conclusion/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Conclusion/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Conclusion/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/Copier/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Copier/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Copier/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/Equipment_Overview/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Equipment_Overview/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Equipment_Overview/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/Introduction/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Introduction/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Introduction/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/Locations/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Locations/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Locations/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/Print/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Print/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Print/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/Problems/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Problems/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Problems/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/Safety/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/Safety/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/Safety/"/>
     </url>
     <url>
+        <loc>https://localhost:8000/zh/System_Overview/</loc>
+        <lastmod>2024-10-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/System_Overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/System_Overview/"/>
+    </url>
+    <url>
         <loc>https://localhost:8000/zh/blog/</loc>
-        <lastmod>2024-10-24</lastmod>
+        <lastmod>2024-10-28</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/blog/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/blog/"/>
